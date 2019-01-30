@@ -1,5 +1,7 @@
 # cocos_dragonBone_collider
 
+原文：https://github.com/akaziki/cocos_dragonBone_collider
+
 主要目的是为了给龙骨骼动态添加碰撞组件
 
 ### 使用方法
@@ -17,4 +19,5 @@
 5. 为子节点添加碰撞组件 
 6. 通过插槽数据设置碰撞组件的碰撞点
 7. 在update里动态改变子节点的rotation、scale
+
 
